@@ -19,8 +19,8 @@ A mini-app for viewing and editing image files, demonstrating XAML layout, data 
 
 > Note - This sample is targeted and tested for Windows 10, version 2004 (10.0; Build 19041), and Visual Studio 2019. If you prefer, you can use project properties to retarget the project(s) to Windows 10, version 1903 (10.0; Build 18362).
 
-![PhotoLab sample showing the image collection page](Screenshots/PhotoLab-collection-page.png)
-![PhotoLab sample showing the image editing page](Screenshots/PhotoLab-editing-page.png)
+![Screenshot (1592)](https://github.com/RuleLuluDamara/application-uwp-photo-lab/assets/105763198/7ac6bb89-0c27-48de-8133-7b52e829ccc1)
+![Screenshot (1593)](https://github.com/RuleLuluDamara/application-uwp-photo-lab/assets/105763198/ddadeace-90df-4e46-afa5-763f638b33bc)
 
 This repo includes the complete sample pictured above, plus separate versions that serve as starting points for a series of
 [XAML basics tutorials](xaml-basics-starting-points).
